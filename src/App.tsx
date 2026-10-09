@@ -1,11 +1,11 @@
 import { useEffect, useMemo, useState } from "react";
-import logo from "./assets/sukre-logo.png";
-import salonPrincipal from "./public/Salones/salonprincipal.jpeg";
-import salonEntrada from "./public/Salones/salonentrada.jpeg";
-import salonBalcon from "./public/Salones/salonbalcon.jpeg";
-import piano from "./public/Salones/Referencias/piano.jpeg";
-import barra from "./public/Salones/Referencias/barra.jpeg";
-import catedral from "./public/Salones/Referencias/catedral.png";
+import logo from "./assets/sukre-logo.webp";
+import salonPrincipal from "./public/Salones/salonprincipal.webp";
+import salonEntrada from "./public/Salones/salonentrada.webp";
+import salonBalcon from "./public/Salones/salonbalcon.webp";
+import piano from "./public/Salones/Referencias/piano.webp";
+import barra from "./public/Salones/Referencias/barra.webp";
+import catedral from "./public/Salones/Referencias/catedral.webp";
 
 type Page = "historia" | "carta" | "reservas" | "contacto";
 type Dish = {
