@@ -1,0 +1,10 @@
+{
+  "description": "Offers a comprehensive restaurant site with history, menu sections, reservation system by salon, and online ordering with payment for delivery.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
